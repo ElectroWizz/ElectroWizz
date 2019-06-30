@@ -1,6 +1,6 @@
 ## Welcome to ElectroWizz Engineering & Maintenance Services
 
-You can use the [editor on GitHub](https://github.com/ElectroWizz/Engineering/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can also visit our page on Facebook: (https://www.facebook.com/electrowizzengineering)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
