@@ -7,7 +7,7 @@ We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
 
 ### Mission
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At ElectroWizz are qualified, highly trained, and experienced in providing a variety of secvices in Electrical, Building Construction, Plumbing, Renovation, Security Camera Systems, Burglar Alarm Systems, and Solar Systems.
 
 ```markdown
 Syntax highlighted code block
