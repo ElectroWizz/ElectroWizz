@@ -2,9 +2,10 @@
 
 You can also visit our page on Facebook: [https://www.facebook.com/electrowizzengineering](https://www.facebook.com/electrowizzengineering)
 
-**Bold** We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
 
-### Markdown
+We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
+
+### Mission
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
