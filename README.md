@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-You can contact ur via email: [electrowizzengineering@gmail.com](electrowizzengineering@gmail.com)  or by phone: [1868-710-1545](1868-710-1545)
+You can contact ur via email: [electrowizzengineering@gmail.com](electrowizzengineering@gmail.com)  or call: [1868-710-1545](1868-710-1545)
