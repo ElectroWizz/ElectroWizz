@@ -1,6 +1,6 @@
 ## Welcome to ElectroWizz Engineering & Maintenance Services
 
-You can also visit our page on Facebook: [facebook](https://www.facebook.com/electrowizzengineering)
+You can also visit our page on Facebook: [https://www.facebook.com/electrowizzengineering](https://www.facebook.com/electrowizzengineering)
 
 We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
 
