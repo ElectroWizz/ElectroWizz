@@ -7,7 +7,7 @@ We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
 
 ### Mission
 
-At ElectroWizz are qualified, highly trained, and experienced in providing a variety of secvices in Electrical, Building Construction, Plumbing, Renovation, Security Camera Systems, Burglar Alarm Systems, and Solar Systems.
+At ElectroWizz are qualified, highly trained, and experienced in providing a variety of services in Electrical, Building Construction, Plumbing, Renovation, Security Camera Systems, Burglar Alarm Systems, and Solar Systems.
 
 ```markdown
 Syntax highlighted code block
