@@ -2,7 +2,7 @@
 
 You can also visit our page on Facebook: [facebook](https://www.facebook.com/electrowizzengineering)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We Provide Exceptional Workmanship at Exceptionally Affordable Prices!
 
 ### Markdown
 
